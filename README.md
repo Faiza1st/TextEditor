@@ -1,5 +1,8 @@
 ## TextEditor
 
+## Deployed Link 
+https://texteditor-15kl.onrender.com/
+
 ## Description 
 This project is an offline text editor web application that allows you to create and store notes or code snippets with or without an internet connection, and it uses IndexedDB for storage. The application offers a dependable solution to save your notes or code snippets for subsequent use.
 
